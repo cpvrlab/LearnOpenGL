@@ -1,3 +1,7 @@
 # ignores following folders
 bin/
 build/
+cmake-build*/
+.idea/
+.DS_Store
+.vs/
